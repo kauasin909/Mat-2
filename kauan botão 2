@@ -1,0 +1,15 @@
+<html>
+<html>
+  <head>
+    <title>Redirect</title>
+    <style>
+      body { font-family: Arial; text-align: center; margin-top: 50px; background: #f7f7f7; }
+      button { background: #4CAF50; color: white; border: none; padding: 10px 20px; cursor: pointer; border-radius: 5px; }
+      button:hover { background: #45a049; }
+    </style>
+  </head>
+  <body>
+    <h1>Aperte e seja Redirecionado</h1>
+    <button onclick="window.location.href='https://www.youtube.com/'">Ir para o YouTube</button>
+  </body>
+</html>
